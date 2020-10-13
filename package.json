@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/mmohamud1/Page-Transitions#readme",
   "dependencies": {
-    "gsap": "^3.5.1",
-    "parcel-bundler": "^1.12.4"
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.5.1"
   },
   "devDependencies": {
     "sass": "^1.27.0"

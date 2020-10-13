@@ -1,0 +1,19 @@
+{
+  "name": "page-transitions",
+  "version": "1.0.0",
+  "description": "Practicing Page Transitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmohamud1/Page-Transitions.git"
+  },
+  "author": "Mohamed Mohamud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmohamud1/Page-Transitions/issues"
+  },
+  "homepage": "https://github.com/mmohamud1/Page-Transitions#readme"
+}
